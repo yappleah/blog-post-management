@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.blog {
+    padding: 10px;
+    margin-top: 10px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.blog ul li {
+    font-weight: bold;
+    list-style-type: none;
+    display: inline;
+    margin-right: 30px;
+}
+
+.header {
+    font-size: 4rem;
+    font-weight: bold;
+    color: blue;
+    text-shadow: 2px 2px black;
+}
+
+body {
+    background-color: lightgrey;
+
+}
